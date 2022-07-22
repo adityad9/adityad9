@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adityad9
 - 👀 I’m interested in astronomy, coding,  learning.
 - 🌱 I’m currently learning c++, astronomy.
-- 💞️ I’m looking to collaborate on astronomy projects.
+- 💞️ I’m looking to collaborate on any c++,astronomy,AI,ML,Cybersecurity projects.
 - 📫 Reach me here: desaiaditya007@gmail.com
 
 <!---
